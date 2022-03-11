@@ -33,7 +33,7 @@ main{
     height: 50px;
     display: flex;
     align-items: center;
-    gap: 8px;
+    gap: 9px;
     text-decoration: none;
     padding: 4px;
     transition: 350ms;
